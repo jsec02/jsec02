@@ -2,40 +2,40 @@
 
 ### System Administration
 
-- [dotfiles](https://github.com/jb49088/dotfiles) - Personal dotfiles and configuration management for multiple Linux machines
+- [dotfiles](https://github.com/jsec02/dotfiles) - Personal dotfiles and configuration management for multiple Linux machines
 - [inventory](https://github.com/jsec02/inventory) - Declarative infrastructure for personal configuration management system
-- [backup_script](https://github.com/jb49088/backup_script) - Backup automation script built on Restic with retention policies and dual-repository redundancy
-- [setup_script](https://github.com/jb49088/setup_script) - Post-installation setup automation script for environment replication
+- [backup_script](https://github.com/jsec02/backup_script) - Backup automation script built on Restic with retention policies and dual-repository redundancy
+- [setup_script](https://github.com/jsec02/setup_script) - Post-installation setup automation script for environment replication
 
 ### Security Exploits/Tools
 
-- [poc](https://github.com/jb49088/poc) - Collection of demonstration exploits to prove specific vulnerabilities
-- [port_scanner](https://github.com/jb49088/port_scanner) - Asynchronous TCP half-open IP reconnaissance and probing tool
+- [poc](https://github.com/jsec02/poc) - Collection of demonstration exploits to prove specific vulnerabilities
+- [port_scanner](https://github.com/jsec02/port_scanner) - Asynchronous TCP half-open IP reconnaissance and probing tool
 
 ### Networking Tools 
 
-- [ping](https://github.com/jb49088/ping) - Host availability and RTT tester implemented with raw ICMP sockets
+- [ping](https://github.com/jsec02/ping) - Host availability and RTT tester implemented with raw ICMP sockets
 
 ### Data Engineering
 
-- [riven_sniper](https://github.com/jb49088/riven_sniper) - Multi-source market aggregator with median-based anomaly detection
-- [data_visualization](https://github.com/jb49088/data_visualization) - Series of data visualizations built with matplotlib and plotly
+- [riven_sniper](https://github.com/jsec02/riven_sniper) - Multi-source market aggregator with median-based anomaly detection
+- [data_visualization](https://github.com/jsec02/data_visualization) - Series of data visualizations built with matplotlib and plotly
 
 ### CLI Utilities
 
-- [python_scripts](https://github.com/jb49088/python_scripts) - Python based personal productivity tools and workflow automation
-- [bash_scripts](https://github.com/jb49088/bash_scripts) - Bash based personal productivity tools and workflow automation
-- [wfm](https://github.com/jb49088/wfm) - Unofficial REPL-style CLI frontend and automated listings manager for warframe.market
+- [python_scripts](https://github.com/jsec02/python_scripts) - Python based personal productivity tools and workflow automation
+- [bash_scripts](https://github.com/jsec02/bash_scripts) - Bash based personal productivity tools and workflow automation
+- [wfm](https://github.com/jsec02/wfm) - Unofficial REPL-style CLI frontend and automated listings manager for warframe.market
 
 ### Knowledge Management
 
-- [cybersecurity_notes](https://github.com/jb49088/cybersecurity_notes) - 1,000+ interconnected cybersecurity notes built in Neovim, complete with tags and links
+- [cybersecurity_notes](https://github.com/jsec02/cybersecurity_notes) - 1,000+ interconnected cybersecurity notes built in Neovim, complete with tags and links
 
 ### Hardware & Firmware
 
-- [qgmlwy](https://github.com/jb49088/qgmlwy) - Source for custom QMK compiled keyboard layout
+- [qgmlwy](https://github.com/jsec02/qgmlwy) - Source for custom QMK compiled keyboard layout
 
 ### Games & Simulations
 
-- [alien_invasion](https://github.com/jb49088/alien_invasion) -  Space invaders style game built with pygame
-- [fish_tank](https://github.com/jb49088/fish_tank) - Double-buffered, grid-based, object-oriented terminal animation
+- [alien_invasion](https://github.com/jsec02/alien_invasion) -  Space invaders style game built with pygame
+- [fish_tank](https://github.com/jsec02/fish_tank) - Double-buffered, grid-based, object-oriented terminal animation
