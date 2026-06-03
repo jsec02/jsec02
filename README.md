@@ -3,7 +3,7 @@
 ### System Administration
 
 - [dotfiles](https://github.com/jsec02/dotfiles) - Configuration file repository for multiple Linux machines
-- [inventory](https://github.com/jsec02/inventory) - Declarative infrastructure for personal configuration management system
+- [inventory](https://github.com/jsec02/inventory) - Declarative infrastructure and source of truth for personal configuration management system
 - [backup_script](https://github.com/jsec02/backup_script) - Backup automation script built on Restic with retention policies and 3-2-1 redundancy
 - [setup_script](https://github.com/jsec02/setup_script) - Post-installation setup automation script for environment replication
 
