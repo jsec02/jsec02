@@ -1,5 +1,3 @@
-[Credly](https://www.credly.com/users/j-b.533738b8) | [HackerOne](https://www.hackerone.com/) | [Hack The Box](https://app.hackthebox.com/users/3226882)
-
 ### System Administration
 
 - [dotfiles](https://github.com/jsec02/dotfiles) - Configuration file repository for multiple Linux machines
