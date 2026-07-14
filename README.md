@@ -1,10 +1,15 @@
 ### System Administration
 
-- [dotfiles](https://github.com/jsec02/dotfiles) - Configuration file repository for multiple Linux machines
-- [inventory](https://github.com/jsec02/inventory) - Declarative infrastructure and source of truth for personal configuration management system
-- [backup](https://github.com/jsec02/backup) - Backup automation script built on Restic with retention policies and 3-2-1 redundancy
-- [linux_setup](https://github.com/jsec02/linux_setup) - Post-installation setup automation script for Linux based environment replication
-- [windows_setup](https://github.com/jsec02/windows_setup) - Post-installation setup automation script for Windows based environment replication
+- #### Linux
+
+  - [dotfiles](https://github.com/jsec02/dotfiles) - Configuration file repository for multiple Linux machines
+  - [inventory](https://github.com/jsec02/inventory) - Declarative infrastructure and source of truth for personal configuration management system
+  - [backup](https://github.com/jsec02/backup) - Backup automation script built on Restic with retention policies and 3-2-1 redundancy
+  - [linux_setup](https://github.com/jsec02/linux_setup) - Post-installation setup automation script for Linux based environment replication
+
+- #### Windows
+
+  - [windows_setup](https://github.com/jsec02/windows_setup) - Post-installation setup automation script for Windows based environment replication
 
 ### Security Exploits/Tools
 
