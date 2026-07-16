@@ -1,5 +1,8 @@
 ### System Administration
 
+- [python_scripts](https://github.com/jsec02/python_scripts) - Python based personal productivity tools and workflow automation
+- [bash_scripts](https://github.com/jsec02/bash_scripts) - Bash based personal productivity tools and workflow automation
+
 - #### Linux
 
   - [linux_dotfiles](https://github.com/jsec02/linux_dotfiles) - Configuration file repository for multiple Linux machines
@@ -28,8 +31,6 @@
 
 ### CLI Utilities
 
-- [python_scripts](https://github.com/jsec02/python_scripts) - Python based personal productivity tools and workflow automation
-- [bash_scripts](https://github.com/jsec02/bash_scripts) - Bash based personal productivity tools and workflow automation
 - [wfm](https://github.com/jsec02/wfm) - Unofficial REPL-style CLI frontend and automated listings manager for warframe.market
 
 ### Knowledge Management
