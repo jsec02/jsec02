@@ -2,9 +2,9 @@
 
 - #### Linux
 
-  - [dotfiles](https://github.com/jsec02/dotfiles) - Configuration file repository for multiple Linux machines
-  - [inventory](https://github.com/jsec02/inventory) - Declarative infrastructure and source of truth for personal configuration management system
-  - [backup](https://github.com/jsec02/backup) - Backup automation script built on Restic with retention policies and 3-2-1 redundancy
+  - [linux_dotfiles](https://github.com/jsec02/linux_dotfiles) - Configuration file repository for multiple Linux machines
+  - [linux_inventory](https://github.com/jsec02/linux_inventory) - Declarative infrastructure and source of truth for personal configuration management system
+  - [linux_backup](https://github.com/jsec02/linux_backup) - Backup automation script built on Restic with retention policies and 3-2-1 redundancy
   - [linux_setup](https://github.com/jsec02/linux_setup) - Post-installation setup automation script for Linux based environment replication
 
 - #### Windows
