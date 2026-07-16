@@ -26,6 +26,7 @@
 
 ### Data Engineering
 
+- [parsers](https://github.com/jsec02/parsers) - Centralized data parser repository
 - [riven_sniper](https://github.com/jsec02/riven_sniper) - Multi-source market aggregator with median-based anomaly detection
 - [data_visualization](https://github.com/jsec02/data_visualization) - Series of data visualizations built with matplotlib and plotly
 
