@@ -39,7 +39,7 @@
 
 ### Knowledge Management
 
-- [cybersecurity_notes](https://github.com/jsec02/cybersecurity_notes) - 1,000+ interconnected cybersecurity notes built in Neovim, complete with tags and links
+- [cybersecurity_notes](https://github.com/jsec02/cybersecurity_notes) - Structured cybersecurity knowledge base, complete with tags and links
 
 ### Hardware & Firmware
 
