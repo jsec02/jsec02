@@ -12,6 +12,7 @@
 
 #### Windows
 
+  - [windows_dotfiles](https://github.com/jsec02/windows_dotfiles) -  - Configuration file repository for main Windows machine
   - [windows_inventory](https://github.com/jsec02/windows_inventory) - Declarative infrastructure and source of truth for personal configuration management system
   - [windows_backup](https://github.com/jsec02/windows_backup) - Backup automation script built on Restic with retention policies and 3-2-1 redundancy
   - [windows_setup](https://github.com/jsec02/windows_setup) - Post-installation setup automation script for Windows based environment replication
