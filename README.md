@@ -2,7 +2,8 @@
 
 - [python_scripts](https://github.com/jsec02/python_scripts) - Python based personal productivity tools and workflow automation
 - [bash_scripts](https://github.com/jsec02/bash_scripts) - Bash based personal productivity tools and workflow automation
-- [powershell_scripts](https://github.com/jsec02/powershell_scripts) - Powershell based personal productivity tools and workflow automation
+- [powershell_scripts](https://github.com/jsec02/powershell_scripts) - PowerShell based personal productivity tools and workflow automation
+- [powershell_modules](https://github.com/jsec02/powershell_modules) - PowerShell modules for reusable and importable commands
 
 #### Linux
 
