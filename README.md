@@ -24,6 +24,7 @@
 - [poc](https://github.com/jsec02/poc) - Collection of demonstration exploits to prove specific vulnerabilities
 - [port_scanner](https://github.com/jsec02/port_scanner) - Asynchronous TCP half-open IP reconnaissance and probing tool
 - [revshells](https://github.com/jsec02/revshells) - Collection of tested and reliable reverse shells
+- [webshells](https://github.com/jsec02/webshells) - Collection of tested and reliable web shells
 
 ### Networking Tools 
 
